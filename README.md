@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @regn1ff
-- 🧑 My name is Aleksander
+- 🧑 My name is Aleksandr
 - 👀 I’m interested in frontend dev
 - 🌱 I’m currently learning js & css
 - 📫 How to reach me ...
